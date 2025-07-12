@@ -1,6 +1,6 @@
 # Moving-prediction-compe-
 1.
-このコードはVisual Studio Codeの環境にて作成されております。
+このコードはVisual Studio Codeの環境にて.ipynbファイルとして作成されております。
 参考までにVScodeのバージョンを記載いたします。
 
 バージョン: 1.102.0 (user setup)
